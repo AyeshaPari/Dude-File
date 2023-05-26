@@ -3,7 +3,8 @@ FILE - CLONING
 
 NEW UPDATE V21 (RUN)
 ####
-https://github.com/itzalif007/Dude-File/blob/Ahameed7/FileV21.py
+
+git clone https://github.com/itzalif007/Dude-File
 
 
 cd Dude-File
